@@ -7,6 +7,8 @@ base_code.ipynb is the base model on it's own, able to run for one day. model.ip
 
 ninjatempdata, SolarAngles and SolarI are data csvs from renewables ninja [1], [2], slightly edited to make them easier for the code to read, website: https://www.renewables.ninja/
 
+I have tried to leave enough documentation/comments in the code for it to hopefully be easily understandable.
+
 
 
 
