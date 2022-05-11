@@ -1,8 +1,6 @@
 # Thermal-Housing-Model-Data
 Code and data used for a Year 3 group industrial project, on the basis of National grid desiring a thermal housing model that gives electrical demands of typical UK houses using an electric heat pump.
 
-Model was coded in google colab, and I have uploaded the code with both .ipynb and .py but not tested in .py
-
 base_code.ipynb is the base model on it's own, able to run for one day. model.ipynb includes extra functions that allow the model to run for multiple days, and for varying specific input parameters.
 
 ninjatempdata, SolarAngles and SolarI are data csvs from renewables ninja [1], [2], slightly edited to make them easier for the code to read, website: https://www.renewables.ninja/
