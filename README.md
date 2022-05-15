@@ -1,5 +1,5 @@
 # Thermal-Housing-Model-Data
-Code and data used for a Year 3 group industrial project, on the basis of National grid desiring a thermal housing model that gives electrical demands of typical UK houses using an electric heat pump.
+Code and data used for a Year 3 group industrial project, on the basis of National grid desiring a thermal housing model that gives electrical demands of typical UK houses using an electric heat pump. (H. Matthews, J. Saito, B. Kulik)
 
 base_code.ipynb is the base model on it's own, able to run for one day. model.ipynb includes extra functions that allow the model to run for multiple days, and for varying specific input parameters.
 
